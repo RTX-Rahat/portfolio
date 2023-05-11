@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Mechanical Engineering Portfolio</title>
+</head>
+<body>
+  <header>
+    <h1>My Mechanical Engineering Portfolio</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Projects</a>
+      <a href="#">About Me</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <h2>Home</h2>
+      <p>Welcome to my mechanical engineering portfolio. Here you can learn more about my skills and experience, and see some of my past projects.</p>
+    </section>
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <h3>Project Title</h3>
+          <p>This project was a challenge to design and build a new type of mechanical device. I worked with a team of engineers to develop the concept, and then I led the design and construction of the prototype. The project was a success, and the device is now being used by industry.</p>
+        </li>
+        <li>
+          <h3>Project Title</h3>
+          <p>This project was a research project to develop a new method for manufacturing a type of mechanical part. The project was successful, and the new method is now being used by industry.</p>
+        </li>
+        <li>
+          <h3>Project Title</h3>
+          <p>This project was a design project to develop a new type of mechanical system. The project was successful, and the system is now being used by industry.</p>
+        </li>
+      </ul>
+    </section>
+    <section id="about-me">
+      <h2>About Me</h2>
+      <p>I am a mechanical engineer with a passion for design and innovation. I have a strong background in engineering principles and design methods, and I am skilled in using a variety of engineering software. I am also a team player and I am always willing to learn new things.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>If you would like to contact me, you can reach me at [email protected] or [phone number].</p>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 My Name</p>
+  </footer>
+</body>
+</html>
